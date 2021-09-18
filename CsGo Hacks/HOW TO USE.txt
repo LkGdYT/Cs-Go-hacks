@@ -1,0 +1,7 @@
+In order to use this software you need to have python installed on your device. (download at https://www.python.org/downloads)
+
+Then you will have to install the required libraries, found in the requirements software.
+
+To install them open the command prompt (search cmd in the windows search bar and you will find it)
+Then type in the cmd pip install *name of a requirement* to install it
+Install every of the requirements in the requirements file and then you will be good to go.
